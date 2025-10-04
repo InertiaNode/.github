@@ -17,12 +17,12 @@ We support the following frameworks:
 |------------|-------------|
 | [InertiaNode](https://github.com/InertiaNode/adapter) | The Node.js adapter for Inertia.js  |
 | [InertiaNode/kits](https://github.com/InertiaNode/kits) | Starter kits for InertiaNode. |
-<!-- | [InertiaNode/vite-plugin](https://github.com/InertiaNode/vite-plugin) | Vite Plugin for InertiaNode. | -->
 | [InertiaNode/inertianode.com](https://github.com/InertiaNode/inertianode.com) | The website promoting the library and documentation. |
 | [InertiaNode/PingCRM-Express-Vue](https://github.com/InertiaNode/PingCRM-Express-Vue) | A demo application to illustrate how InertiaNode works with Express and Vue. |
 | [InertiaNode/PingCRM-Hono-React](https://github.com/InertiaNode/PingCRM-Hono-React) | A demo application to illustrate how InertiaNode works with Hono and React. |
 | [InertiaNode/PingCRM-Koa-Svelte](https://github.com/InertiaNode/PingCRM-Koa-Svelte) | A demo application to illustrate how InertiaNode works with Koa and Svelte. |
 
+<!-- | [InertiaNode/vite-plugin](https://github.com/InertiaNode/vite-plugin) | Vite Plugin for InertiaNode. | -->
 ## What is InertiaNode?
 
 InertiaNode provides a lightweight middleware and tooling layer that allows Node.js to serve Inertia.js-powered frontends without the complexity of building and maintaining a separate API. With InertiaNode, you write your backend logic using familiar MVC or minimal API patterns, and your frontend using your preferred JavaScript framework.
