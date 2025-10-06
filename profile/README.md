@@ -8,6 +8,7 @@ We support the following frameworks:
 - Hono
 - Express
 - Koa
+- NestJS
 
 [View Website](https://inertianode.com)
 
